@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('/image/cat.jpg') no-repeat center center fixed;
+    background-size: cover;
+    padding: 20px;
+    color: #333;
+}
+form {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 15px;
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+}
+input, textarea {
+    width: 95%;
+    padding: 8px;
+    margin: 5px 0;
+}
+button {
+    padding: 8px 12px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+table {
+    width: 100%;
+    background: white;
+}
+th, td {
+    padding: 10px;
+}
